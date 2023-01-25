@@ -1,5 +1,3 @@
-## Код класу Customer та скріншот його виконання:
-``` java
 package domain;
 
 public class Customer {
@@ -30,6 +28,3 @@ public class Customer {
         System.out.println("ID: " + ID + "\nIs new: " + isNew + "\nTotal orders are: " + total);
     }
 }
-```
-![alt-текст](https://github.com/ppc-ntu-khpi/java-1-Articso/blob/main/Solution/advanced.png)
-
