@@ -34,5 +34,5 @@ public class Customer {
 }
 ```
 **Результат виконання коду:**
-![README](Solution/advanced.png)
+![alt-текст](https://github.com/ppc-ntu-khpi/java-1-Articso/blob/main/Solution/advanced.png)
 
